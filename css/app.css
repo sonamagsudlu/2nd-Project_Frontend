@@ -193,6 +193,9 @@ h4{
   max-height: 100% !important;
 }
 }
+.fineArts{
+  height:400px;
+}
 
 @media only screen and (max-width: 650px) {
   .main-container, .algorithms-container, .projects-container {
