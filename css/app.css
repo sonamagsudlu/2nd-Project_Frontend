@@ -7,7 +7,7 @@ body {
   max-width: 100vw;
   display: grid;
   grid-template-columns: 1.2fr 5fr 1.2fr;
-  grid-template-rows: 0.4fr 0.5fr 1fr 1fr;
+  grid-template-rows: 0.4fr 0.5fr 2fr 1fr;
   background-image: url("../Images/selfie\ edit-2.svg");
   background-size: 250px;
   background-repeat: no-repeat;
@@ -230,7 +230,7 @@ h4{
   }
   .sub-value {
       width: 100%;
-      font-size: 13px;
+      font-size: 12px;
   }
   .main-container {
       background-size: 150px;
