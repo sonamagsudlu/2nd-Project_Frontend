@@ -58,6 +58,7 @@ a{
   font-family: 'Architects Daughter', cursive;
   width: 60%;
   font-weight: 250;
+  
   font-size: 32px;
   line-height: 1.4;
   color: #333333;
@@ -101,6 +102,29 @@ a{
   transition: 300ms;
   cursor: pointer;
   transform: scale(1.04);
+}
+.search-container{
+  background:#3aaaff;
+  height:200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  color: #fff !important;
+}
+
+select{
+  max-width: 200px;
+}
+
+.search-input{
+  min-width: 300px;
+}
+
+.pick-date{
+  max-width: 100px;
+  padding-right: 100px;
 }
 
 .card-image:hover{
